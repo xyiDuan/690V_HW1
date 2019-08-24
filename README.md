@@ -1,5 +1,5 @@
 # boken python training
 
-Data Visualization Understanding 
-It is only a workplace for practicing 
+Data Visualization Understanding /n
+It is only a workplace for practicing /n
 Using Bokeh for data visualization.
