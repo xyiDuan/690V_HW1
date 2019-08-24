@@ -1,4 +1,5 @@
-# 690V_HW1
+# boken python training
 
-This is the first homework for 690V. 
-The purpose of this homework is to become familiar with uploading data and using Bokeh.
+Data Visualization Understanding 
+It is only a workplace for practicing 
+Using Bokeh for data visualization.
